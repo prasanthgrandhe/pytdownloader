@@ -1,10 +1,10 @@
 # pytdownloader
 
-##Requirements.
+## Requirements.
 1.python newer version with added path.
 2.pip module
 
-##Steps to be followed for using the Youtube downloader by Prasanth Grandhe
+## Steps to be followed for using the Youtube downloader by Prasanth Grandhe
 
 1.fork the repository to your github.
 2.clone your repository to your system.
